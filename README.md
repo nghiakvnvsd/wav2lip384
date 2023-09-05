@@ -16,6 +16,7 @@ There are two major steps: (i) Train the expert lip-sync discriminator, (ii) Tra
 ##### Training the expert discriminator
 You can use your own data (with resolution 384x384)
 
+```bash
 python parallel_syncnet_tanh.py
 ```
 ##### Training the Wav2Lip models
