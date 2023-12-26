@@ -1,5 +1,8 @@
 # **Wav2Lip** - a modified wav2lip 384 version
 
+##### About this Repo
+This repo is modified directly from the original wav2lip repo, and it requires a large amount of high-resolution data to train. So it's obvious that you won't train well. But currently, I have a strategy to train the target person and it only requires about 40 hours of data. Please contact me if your company needs a full-time data scientist to deploy this model and wants to research better models.
+This code just committed to finding a new job. I will remove the code when I get a job. If your company wants to offer a full-time job for the lipsync project, please get in touch with me. I will show my results and when I get the offer, I will deploy my full strategy for your company. I have other plans in the future to deploy other models such as GeneFace and MemFace but I lack the resources to research further.
 
 Lip-syncing videos using the pre-trained models (Inference)
 -------
